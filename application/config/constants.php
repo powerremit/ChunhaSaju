@@ -99,3 +99,4 @@ defined('__VIEW_PATH_LAYOUT_SUB')      OR define('__VIEW_PATH_LAYOUT_SUB', '/fro
 
 defined('_COMMON_MODAL_ID')      OR define('_COMMON_MODAL_ID', 'cmnModal');
 define('CRYPTOJS_KEY', 'cheonhasaju');
+define('DB_PASSWORD', 'qkdwldnjs');
