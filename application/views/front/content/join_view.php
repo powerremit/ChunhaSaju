@@ -1,4 +1,4 @@
-<section class="projects-section" id="projects">
+<section class="projects-section" id="">
     <div class="container px-4 px-lg-5">
         <form onsubmit="return false">
             <table>

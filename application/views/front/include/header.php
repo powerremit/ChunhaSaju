@@ -11,7 +11,7 @@
                 <li class="nav-item"><a class="nav-link" href="/#about">천하사주</a></li>
                 <li class="nav-item"><a class="nav-link" href="/#projects">프로필</a></li>
                 <li class="nav-item"><a class="nav-link" href="/#contact">연락처</a></li>
-                <li class="nav-item"><a class="nav-link" href="javascript:void(0)">교육과정</a></li>
+                <li class="nav-item"><a class="nav-link <?=$this->uri->segment(1) == 'lecture' ? 'active' : ''?>" href="/lecture">교육과정</a></li>
             </ul>
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item"><a class="nav-link" href="javascript:void(0)" id="loginBtn">로그인</a></li>
